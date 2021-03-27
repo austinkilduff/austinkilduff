@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @austinkilduff
+- 👀 I’m interested in system administration and scripting, as well as the occasional web project
+- 🌱 I’m currently learning Linux admin and dev-ops
+- 👷 I'm currently working on re-writing and re-architecting [akilduff.com](https://github.com/austinkilduff/akilduff.com)
+- 📫 How to reach me: austin@akilduff.com
