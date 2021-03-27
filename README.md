@@ -3,4 +3,5 @@
 - ☦️ I especially like writing tools and resources for practicing faith life
 - 🌱 I’m currently learning Linux admin and dev-ops
 - 👷 I'm currently working on re-writing and re-architecting [akilduff.com](https://github.com/austinkilduff/akilduff.com)
+- 💼 I'm looking for remote work in Linux system administration
 - 📫 How to reach me: austin@akilduff.com
